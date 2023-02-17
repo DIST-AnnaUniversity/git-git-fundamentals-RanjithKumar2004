@@ -158,7 +158,7 @@ echo "Learning Laravel 5">> book.txt
 echo "After appending the file"
 cat book.txt
 
-Recipient=”prabhavathirajendiran@gmail.com”
+Recipient=”c.ranjithkumar2004@gmail.com”
 Subject=”Greeting”
 Message=”Welcome to our site”
 `mail -s $Subject $Recipient <<< $Message`
